@@ -12,4 +12,4 @@ Projeto desenvolvido durante o Bootcamp [Ri Happy - Front-end do Zero](https://w
 ## 🚀 Tecnologias utilizadas
 
 ![AGPL License](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-## 🖥 Preview:
+
